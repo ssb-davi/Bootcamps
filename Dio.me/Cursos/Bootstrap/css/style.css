@@ -1,0 +1,30 @@
+body {
+   font: 20px Arial, sans-serif;
+   background-color: #DAF7A6;
+   color: #7a7a7a;
+}
+
+.servicos {
+   background-color: #258d19;
+   font-weight: 400;
+   color: white;
+}
+
+img {
+   padding: 10px;
+}
+
+.navbar {
+   background-color:#95F291;
+}
+
+.margin {
+   padding: 20px;
+}
+
+footer {
+   font-size: 14px;
+   color: black;
+   padding: 10px;
+   background-color:#F28322;
+}
